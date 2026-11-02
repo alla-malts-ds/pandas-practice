@@ -1,1 +1,3 @@
-<img width="4032" height="2125" alt="image" src="https://github.com/user-attachments/assets/b6e78d8d-c6c2-4177-81e1-74f0c6c7d387" />
+# Data Files
+## Supermarket Sales Dataset
+[supermarket_sales.csv](https://drive.google.com/file/d/1LWkgvM-HiBt7ZUsrdxa1rl2YPKLjDlWl/view?usp=sharing) 
